@@ -129,25 +129,25 @@ nav{
 }
 
 #artemisHeading{
-    left: 38%;
+    left: 37%;
 }
 
 #aboutArtemis{
-    width: 18%;
+    width: 16%;
     height: 25%;
 }
 
 #artemisContainer{
     position: relative;
     display: block;
-    left:42%;
+    left:41.8%;
 
     top: 150%;
 }
 
 #designHeading{
     width: 80%;
-    left: 26%;
+    left: 25%;
 }
 
 #aboutDesign{
@@ -166,7 +166,7 @@ nav{
 
 #worksHeading{
     width: 80%;
-    left: 23%;
+    left: 22%;
 }
 
 #aboutWorks{
@@ -177,13 +177,13 @@ nav{
 #worksContainer{
     position: relative;
     display: block;
-    left:44.2%;
+    left:43%;
 
     top: 150%;
 }
 
 #otherHeading{
-    left: 40%;
+    left: 39%;
 }
 
 #aboutOther{
@@ -194,13 +194,13 @@ nav{
 #OtherContainer{
     position: relative;
     display: block;
-    left:44.2%;
+    left:42.8%;
 
     top: 150%;
 }
 
 .logo{
-    position: fixed;
+    position: absolute;
     padding: 0.5%;
 
     top: 10%;
