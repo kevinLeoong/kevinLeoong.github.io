@@ -205,5 +205,15 @@ nav{
 
     top: 10%;
     left: 46.5%;
+
+/*    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;*/
 }
 
+.logo:hover{
+    color: none;
+    background: none;
+
+
+}
