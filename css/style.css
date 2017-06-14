@@ -109,7 +109,7 @@ nav{
   position: relative;
   display: block;
 
-  left: 26.5%;
+  left: 23.5%;
   top: 20%;
 }
 
@@ -162,3 +162,48 @@ nav{
 
     top: 150%; 
 }
+
+
+#worksHeading{
+    width: 80%;
+    left: 23%;
+}
+
+#aboutWorks{
+    width: 13%;
+    height: 25%;
+}
+
+#worksContainer{
+    position: relative;
+    display: block;
+    left:44.2%;
+
+    top: 150%;
+}
+
+#otherHeading{
+    left: 40%;
+}
+
+#aboutOther{
+    width: 13%;
+    height: 25%;
+}
+
+#OtherContainer{
+    position: relative;
+    display: block;
+    left:44.2%;
+
+    top: 150%;
+}
+
+.logo{
+    position: fixed;
+    padding: 0.5%;
+
+    top: 10%;
+    left: 46.5%;
+}
+
