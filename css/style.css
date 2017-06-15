@@ -109,7 +109,7 @@ nav{
   position: relative;
   display: block;
   width: 1200px;
-  left: 570px;
+  left: 410px;
   top: 20%;
 }
 
@@ -377,4 +377,14 @@ nav{
 
 #top{
     top: 2%;
+}
+
+.sound{
+    position: relative;
+    top: 420px;
+    left: 25%;
+}
+
+#soundBrief{
+    left: 41%;
 }
