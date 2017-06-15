@@ -142,7 +142,7 @@ nav{
     display: block;
     left:41.8%;
 
-    top: 150%;
+    top: 195%;
 }
 
 #designHeading{
@@ -216,4 +216,29 @@ nav{
     background: none;
 
 
+}
+
+.initialBold{
+    color: #5EFFF2;
+}
+
+#artemisMsg{
+    position:relative;
+    left: 31%;
+}
+
+.videoFrame{
+    position: relative;
+    display: block;
+    width: 560px;
+    height: 315px;
+    left: 35%;
+    top: 58%;
+}
+
+.artemisTitle{
+    position: relative;
+    color: #5EFFF2 ;
+    font-size: 80px;
+    top: 150px;
 }
