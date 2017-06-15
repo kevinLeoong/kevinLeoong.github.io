@@ -286,7 +286,7 @@ nav{
 }
 
 #otherNav{
-    left: 35%;
+    left: 30.5%;
     width: 900px;
 }
 
@@ -301,6 +301,7 @@ nav{
 #OtherContainer{
     top: 40%;
     width: 900px;
+    left: 42.5%;
 
 }
 
@@ -325,13 +326,13 @@ nav{
 
 #finalRepHeading{
     left: 29.5%;
-    width: 980px;
+    width: 1300px;
 }
 
 #finalRepContainer{
     top:40%;
     width: 900px;
-    left: 43%;
+    left: 42.5%;
 }
 
 #aboutFinalRep{
@@ -348,4 +349,20 @@ nav{
     position: relative;
     left: 30%;
     top: 60%;
+}
+
+#pinupHeading{
+    top:40%;
+    width: 1200px;
+    left: 25%;
+}
+
+#pinupContainer{
+    top:40%;
+    width: 900px;
+    left: 40%;
+}
+
+#aboutpinup{
+    width: 40%;
 }
