@@ -366,3 +366,15 @@ nav{
 #aboutpinup{
     width: 40%;
 }
+
+#left-img{
+    left: 5%;
+}
+
+#right-img{
+    left: 10%;
+}
+
+#top{
+    top: 2%;
+}
